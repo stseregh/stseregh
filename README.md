@@ -6,8 +6,13 @@
 
 #### Технологии
 
-SQL, Python, pandas. Продолжаю изучать новое :)
+SQL, Python, pandas. Продолжаю изучать новое 👨‍🎓
 
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" width="22px" src="https://www.svgrepo.com/show/3109/telegram.svg" />][telegram]
+
+[linkedin]: https://www.linkedin.com/in/sergeyryzhov/
+[telegram]: https://t.me/stseregh
 <!--
 **stseregh/stseregh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
